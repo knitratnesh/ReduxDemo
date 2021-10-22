@@ -1,0 +1,1 @@
+export const COLOR_CODE = '#282c34';
